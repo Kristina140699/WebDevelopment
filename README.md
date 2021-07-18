@@ -10,7 +10,7 @@ In this project I have made a basic course management system where learners can 
 <li><b>Learn Section:</b> This section consists of different courses from which the learners can pick the reading materials. </li>
 <li><b>Blog Section:</b> This section has weekly blog posts on interesting technology updates </li>
 <li><b>Registration section:</b> In this section, individuals can register their name in the form and get updates for the upcoming course/learning events.</li>
-<li><b>Portfolio Section: </b>This section has my Portfolio website linked so that anyone can freely contact me.	<li>
+<li><b>Portfolio Section: </b>This section has my Portfolio website linked so that anyone can freely contact me.	</li>
 </ul>
 <h2>Technology Used: </h2>
 <ul>
