@@ -1,5 +1,5 @@
 # WebDevelopmentProject
-<h1>Title:</h1> <h2>Learning Management System</h2> <br/>
+<h2>Title: Learning Management System</h2>
 
 <h1>Description:</h1> <h2>What is a  Learning Management System?</h2>
 <p>A learning management system, often referred to as an LMS for short, is actually a software application which provides the framework capable of handling all aspects of the learning process – starting from hosting and providing access to the learning materials till tracking the progress and getting regular updates. Also storing the relevant data of the customers. <br/> &nbsp;
