@@ -20,3 +20,5 @@ In this project I have made a basic course management system where learners can 
 <h2>Demo: </h2>
 <p>This web app is made using a free online service known as Code SandBox which can be accessed from the following link: https://codesandbox.io/<br/>
 For accessing and running the web application click on this link https://1741k.csb.app/ </p>
+
+<img src="https://github.com/Kristina140699/WebDevelopment/blob/main/Pictures/WebDevProject1.png?raw=true"/>
