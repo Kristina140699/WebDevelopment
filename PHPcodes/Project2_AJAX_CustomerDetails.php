@@ -56,7 +56,7 @@ if (this.readyState == 4 && this.status == 200) {
 document.getElementById("txtHint").innerHTML = this.responseText;
 }
 };
-xhttp.open("GET", "55ajaxfetch2.php?q="+str, true);
+xhttp.open("GET", "Project2_AJAX_fetch_CustomerDetails.php?q="+str, true);
 xhttp.send();
 }
 </script>
